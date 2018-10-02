@@ -1377,6 +1377,20 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/banner-2-1819x720.png");
 }
+.cid-r5kQAosTGC {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #000000;
+  background: linear-gradient(0deg, #000000, #735601);
+}
+.cid-r5kQAosTGC .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-r5kQAosTGC .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r5fk7f6QNC {
   background: #ffffff;
 }
